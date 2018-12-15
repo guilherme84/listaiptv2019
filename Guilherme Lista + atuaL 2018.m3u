@@ -783,24 +783,7 @@ http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
 
 
 
-################### FILMES ################### 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6811/Ndg3Gf.png" group-title="FILMES",STUDIO UNIVERSAL
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/4324
 
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/9433/4C36Tx.png" group-title="FILMES",SYFY
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/4323
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/7481/gtiPQ6.png" group-title="FILMES",TBS
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/4322
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6686/7cRl2d.png" group-title="FILMES",TELECINE PIPOCA
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/4317
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/6686/7cRl2d.png" group-title="FILMES",TELECINE PIPOCA HD
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/6078
-
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6825/Jtavyq.png" group-title="FILMES",TCM
-http://painel.ebanonet.com.br:25461/Daniele123/Daniele123/4321
 
 
 ################### SUSPENSE ################### 
@@ -1125,8 +1108,6 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",CINE FILMES 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",GOSPEL TV - FILMES
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",SÓ FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
@@ -1192,124 +1173,124 @@ http://23.89.9.181:8750/live
 
 ################### RÁDIOS BRASIL ################### 
 
-#EXTINF:-1 tvg-id="Rock FM" tvg-logo="https://goo.gl/7ALGEr" group-title="RÁDIO", Rock FM
+#EXTINF:-1 tvg-id="Rock FM" tvg-logo="https://goo.gl/7ALGEr" group-title="RÁDIOS BR", Rock FM
 http://80.86.106.143:9128/rockfm.mp3?CANAISGLAU
 
 
-#EXTINF:-1 tvg-id="Clássico do Rock" tvg-logo="https://goo.gl/9qEjHb" group-title="RÁDIO", Clássico do Rock
+#EXTINF:-1 tvg-id="Clássico do Rock" tvg-logo="https://goo.gl/9qEjHb" group-title="RÁDIOS BR", Clássico do Rock
 http://192.99.150.31:9125
 
-#EXTINF:-1 tvg-id="Pop Rock" tvg-logo="https://goo.gl/T8esGL" group-title="RÁDIO", Pop Rock
+#EXTINF:-1 tvg-id="Pop Rock" tvg-logo="https://goo.gl/T8esGL" group-title="RÁDIOS BR", Pop Rock
 http://stm41.srvstm.com:12648/;?CANAISGLAU
 
-#EXTINF:-1 tvg-id="RÁDIO ATLANTIDA FM" tvg-logo="https://goo.gl/XxjWSc" group-title="RÁDIO", RÁDIO ATLANTIDA FM
+#EXTINF:-1 tvg-id="RÁDIO ATLANTIDA FM" tvg-logo="https://goo.gl/XxjWSc" group-title="RÁDIOS BR", RÁDIO ATLANTIDA FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RÁDIO MIX" tvg-logo="https://goo.gl/SP8t4p" group-title="RÁDIO", RÁDIO MIX
+#EXTINF:-1 tvg-id="RÁDIO MIX" tvg-logo="https://goo.gl/SP8t4p" group-title="RÁDIOS BR", RÁDIO MIX
 
-#EXTINF:-1 tvg-id="RÁDIO COCA COLA FM" tvg-logo="https://goo.gl/nN9KVU" group-title="RÁDIO", RÁDIO COCA COLA FM
+#EXTINF:-1 tvg-id="RÁDIO COCA COLA FM" tvg-logo="https://goo.gl/nN9KVU" group-title="RÁDIOS BR", RÁDIO COCA COLA FM
 http://ic.imusicaRÁDIOS 2.com.br:8000/brasil.stream.http?url=tunein
 
-#EXTINF:-1 tvg-id="KISS FM" tvg-logo="https://goo.gl/nN9KVU" group-title="RÁDIO", KISS COLA FM
+#EXTINF:-1 tvg-id="KISS FM" tvg-logo="https://goo.gl/nN9KVU" group-title="RÁDIOS BR", KISS COLA FM
 http://kissfm.live24.gr/kiss2111?CANAISGLAU
 
-#EXTINF:-1 tvg-id="TRANSAMERICA" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIO", TRANSAMERICA 
+#EXTINF:-1 tvg-id="TRANSAMERICA" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIOS BR", TRANSAMERICA 
 http://transamerica.crossradio.com.br:9114/live.mp3
 
-#EXTINF:-1 tvg-id="TRANSAMERICA LIGHT" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIO", TRANSAMERICA LIGHT
+#EXTINF:-1 tvg-id="TRANSAMERICA LIGHT" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIOS BR", TRANSAMERICA LIGHT
 http://transamerica.crossradio.com.br:9120/live.aac?CANAISGLAU
 
 
-#EXTINF:-1 tvg-id="TRANSAMERICA POP" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIO", TRANSAMERICA POP
+#EXTINF:-1 tvg-id="TRANSAMERICA POP" tvg-logo="https://goo.gl/LTBBfe" group-title="RÁDIOS BR", TRANSAMERICA POP
 http://tuneinmix.crossradio.com.br:8008/stream/1/
 
-#EXTINF:-1 tvg-id="RÁDIO MEGA-SP" tvg-logo="https://goo.gl/1HAUKW" group-title="RÁDIO", RÁDIO MEGA-SP
+#EXTINF:-1 tvg-id="RÁDIO MEGA-SP" tvg-logo="https://goo.gl/1HAUKW" group-title="RÁDIOS BR", RÁDIO MEGA-SP
 http://174-36-1-94.webnow.net.br/mega.mp3
 
 
-#EXTINF:-1 tvg-id="RÁDIO UFU FM - MG" tvg-logo="http://www.interativaonline.com.br/_noticias/WENDER/ufu_uberlandia.jpg" group-title="RÁDIO", RÁDIO UFU FM - MG
+#EXTINF:-1 tvg-id="RÁDIO UFU FM - MG" tvg-logo="http://www.interativaonline.com.br/_noticias/WENDER/ufu_uberlandia.jpg" group-title="RÁDIOS BR", RÁDIO UFU FM - MG
 http://webradio.dr.ufu.br:8000/live?CANAISGLAU
 
-#EXTINF:-1 tvg-id="Radio JBFM RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/79/Logotipo_da_JB_FM.png" group-title="RÁDIO", Radio JBFM RJ
+#EXTINF:-1 tvg-id="Radio JBFM RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/79/Logotipo_da_JB_FM.png" group-title="RÁDIOS BR", Radio JBFM RJ
 http://13693.live.streamtheworld.com/JBFM_SC?CANAISGLAU
 
-#EXTINF:-1 tvg-id="Rádio 80 FM - São Paulo" tvg-logo="https://goo.gl/SNnHEE" group-title="RÁDIO", Rádio 80 FM - São Paulo
+#EXTINF:-1 tvg-id="Rádio 80 FM - São Paulo" tvg-logo="https://goo.gl/SNnHEE" group-title="RÁDIOS BR", Rádio 80 FM - São Paulo
 http://192.198.204.194:9020/;?CANAISGLAU
 
-#EXTINF:-1 tvg-id="Rádio Jazz" tvg-logo="https://goo.gl/M4iyKT" group-title="RÁDIO", Rádio Jazz
+#EXTINF:-1 tvg-id="Rádio Jazz" tvg-logo="https://goo.gl/M4iyKT" group-title="RÁDIOS BR", Rádio Jazz
 http://192.99.150.31:8042/
 
-#EXTINF:-1 tvg-id="Rádio Anos 90" tvg-logo="https://goo.gl/wKMj3x" group-title="RÁDIO", Rádio Anos 90
+#EXTINF:-1 tvg-id="Rádio Anos 90" tvg-logo="https://goo.gl/wKMj3x" group-title="RÁDIOS BR", Rádio Anos 90
 http://192.99.150.31:8056
 
-#EXTINF:-1 tvg-id="Rádio Anos 70" tvg-logo="https://goo.gl/XSbU1N" group-title="RÁDIO", Rádio Anos 70
+#EXTINF:-1 tvg-id="Rádio Anos 70" tvg-logo="https://goo.gl/XSbU1N" group-title="RÁDIOS BR", Rádio Anos 70
 http://192.99.150.31:8241
 
-#EXTINF:-1 tvg-id="Rádio Anos 80" tvg-logo="https://goo.gl/PU6NqX" group-title="RÁDIO", Rádio Anos 80
+#EXTINF:-1 tvg-id="Rádio Anos 80" tvg-logo="https://goo.gl/PU6NqX" group-title="RÁDIOS BR", Rádio Anos 80
 http://192.99.150.31:8697
 
-#EXTINF:-1 tvg-id="Rádio Reggae 80" tvg-logo="https://goo.gl/57Pa48" group-title="RÁDIO", Rádio Reggae
+#EXTINF:-1 tvg-id="Rádio Reggae 80" tvg-logo="https://goo.gl/57Pa48" group-title="RÁDIOS BR", Rádio Reggae
 http://192.99.150.31:8715/stream?CANAISGLAU
 
-#EXTINF:-1 tvg-id="Rádio MPB" tvg-logo="https://goo.gl/bGt9J9" group-title="RÁDIO", Rádio MPB
+#EXTINF:-1 tvg-id="Rádio MPB" tvg-logo="https://goo.gl/bGt9J9" group-title="RÁDIOS BR", Rádio MPB
 http://192.99.150.31:8775/
 
-#EXTINF:-1 tvg-id="JOVEM GUARDA" tvg-logo="https://goo.gl/dAtbVb" group-title="RÁDIO", JOVEM GUARDA
+#EXTINF:-1 tvg-id="JOVEM GUARDA" tvg-logo="https://goo.gl/dAtbVb" group-title="RÁDIOS BR", JOVEM GUARDA
 http://192.99.150.31:8801/stream
 
-#EXTINF:-1 tvg-id="VERSAO BRASILEIRA" tvg-logo="https://goo.gl/h9woRH" group-title="RÁDIO", VERSAO BRASILEIRA
+#EXTINF:-1 tvg-id="VERSAO BRASILEIRA" tvg-logo="https://goo.gl/h9woRH" group-title="RÁDIOS BR", VERSAO BRASILEIRA
 http://192.99.150.31:8849/stream
 
-#EXTINF:-1 tvg-id="LOVE SONGS" tvg-logo="https://goo.gl/mzKLhq" group-title="RÁDIO", LOVE SONGS
+#EXTINF:-1 tvg-id="LOVE SONGS" tvg-logo="https://goo.gl/mzKLhq" group-title="RÁDIOS BR", LOVE SONGS
 http://192.99.150.31:8897/stream
 
-#EXTINF:-1 tvg-id="Românticas" tvg-logo="https://goo.gl/Z6EZS4" group-title="RÁDIO", Românticas
+#EXTINF:-1 tvg-id="Românticas" tvg-logo="https://goo.gl/Z6EZS4" group-title="RÁDIOS BR", Românticas
 http://192.99.150.31:8962
 
-#EXTINF:-1 tvg-id="Forró" tvg-logo="xxx" group-title="RÁDIO", Forró
+#EXTINF:-1 tvg-id="Forró" tvg-logo="xxx" group-title="RÁDIOS BR", Forró
 http://192.99.150.31:9019
 
-#EXTINF:-1 tvg-id="Funk" tvg-logo="xxx" group-title="RÁDIO", Funk
+#EXTINF:-1 tvg-id="Funk" tvg-logo="xxx" group-title="RÁDIOS BR", Funk
 http://192.99.150.31:9089
 
-#EXTINF:-1 tvg-id="Eletro House" tvg-logo="https://goo.gl/UvFDUW" group-title="RÁDIO", Eletro House
+#EXTINF:-1 tvg-id="Eletro House" tvg-logo="https://goo.gl/UvFDUW" group-title="RÁDIOS BR", Eletro House
 http://192.99.150.31:9095
 
-#EXTINF:-1 tvg-id="ROBERTO CARLOS FM" tvg-logo="https://goo.gl/KVotud" group-title="RÁDIO", ROBERTO CARLOS FM
+#EXTINF:-1 tvg-id="ROBERTO CARLOS FM" tvg-logo="https://goo.gl/KVotud" group-title="RÁDIOS BR", ROBERTO CARLOS FM
 http://192.99.150.31:9137/stream?CANAISGLAU
 
 
-#EXTINF:-1 tvg-id="RÁDIO CLUBE FM CURITIBA" tvg-logo="https://goo.gl/JaDcqk" group-title="RÁDIO", RÁDIO CLUBE FM CURITIBA
+#EXTINF:-1 tvg-id="RÁDIO CLUBE FM CURITIBA" tvg-logo="https://goo.gl/JaDcqk" group-title="RÁDIOS BR", RÁDIO CLUBE FM CURITIBA
 http://200.192.112.45:8000/clubefm.mp3
 
-#EXTINF:-1 tvg-id="SERTANEJO" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIO", SERTANEJO
+#EXTINF:-1 tvg-id="SERTANEJO" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIOS BR", SERTANEJO
 http://192.99.150.31:9485/stream?CANAISGLAU
 
-#EXTINF:-1 tvg-id="SERTANEJO 2" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIO", SERTANEJO 2
+#EXTINF:-1 tvg-id="SERTANEJO 2" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIOS BR", SERTANEJO 2
 http://192.99.150.31:9485/stream?CANAISGLAU
 
-#EXTINF:-1 tvg-id="METROPOLITANA POP" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIO", METROPOLITANA POP
+#EXTINF:-1 tvg-id="METROPOLITANA POP" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIOS BR", METROPOLITANA POP
 http://paineldj4.com.br:8510/stream
 
-#EXTINF:-1 tvg-id="METROPOLITANA LIGHT" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIO", METROPOLITANA LIGHT
+#EXTINF:-1 tvg-id="METROPOLITANA LIGHT" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIOS BR", METROPOLITANA LIGHT
 http://paineldj4.com.br:8594/stream
 
-#EXTINF:-1 tvg-id="SERTANEJO RADIO METROPOLITANA" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIO", SERTANEJO RADIO METROPOLITANA
+#EXTINF:-1 tvg-id="SERTANEJO RADIO METROPOLITANA" tvg-logo="https://goo.gl/eU378B" group-title="RÁDIOS BR", SERTANEJO RADIO METROPOLITANA
 http://m.paineldj6.com.br:8504/stream
 
-#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIO", SERTANEJO RAIZ
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIOS BR", SERTANEJO RAIZ
 http://192.99.150.31:9155/stream
 
-#EXTINF:-1 tvg-id="SERTANEJO UNIVERSITÁRIO" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIO", SERTANEJO UNIVERSITÁRIO
+#EXTINF:-1 tvg-id="SERTANEJO UNIVERSITÁRIO" tvg-logo="https://goo.gl/WH4Ua4" group-title="RÁDIOS BR", SERTANEJO UNIVERSITÁRIO
 http://192.99.150.31:9191/stream?TV-SUPER-HD-IPTV-2
 
 
 
 
-#EXTINF:-1 tvg-id="FM LOVES CLASSICS" tvg-logo="https://goo.gl/YooiWv" group-title="RÁDIO", FM LOVES CLASSICS
+#EXTINF:-1 tvg-id="FM LOVES CLASSICS" tvg-logo="https://goo.gl/YooiWv" group-title="RÁDIOS BR", FM LOVES CLASSICS
 http://strm112.1.fm/loveclassics_mobile_mp3?CANAISGLAU
 
-#EXTINF:-1 tvg-id="Rádio Só FlashBack" tvg-logo="https://goo.gl/kGEfTF" group-title="RÁDIO", Rádio Só FlashBack
+#EXTINF:-1 tvg-id="Rádio Só FlashBack" tvg-logo="https://goo.gl/kGEfTF" group-title="RÁDIOS BR", Rádio Só FlashBack
 http://stm41.srvstm.com:12648/;?CANAISGLAU
 
 
@@ -1318,37 +1299,37 @@ http://stm41.srvstm.com:12648/;?CANAISGLAU
 ################### Rádios 2 ################### 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="RÁDIOS 2", FM O DIA TV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="RÁDIOS BR", FM O DIA TV
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="RÁDIOS 2", FM O DIA
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="RÁDIOS BR", FM O DIA
 http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
 
-#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="RÁDIOS 2",Mix FM
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="RÁDIOS BR",Mix FM
 http://mixaac.crossradio.com.br:1100/live
 
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/coca-cola-fm-brasil.png" group-title="RÁDIOS 2", Coca Cola FM
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/coca-cola-fm-brasil.png" group-title="RÁDIOS BR", Coca Cola FM
 http://ic.imusicaradios.com.br:8000/brasil.stream.http
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio41903_1482412598.png" group-title="RÁDIOS 2",Vibe FM
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio41903_1482412598.png" group-title="RÁDIOS BR",Vibe FM
 http://servidor36.brlogic.com:8180/live
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="RÁDIOS 2",Radio Maringa
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="RÁDIOS BR",Radio Maringa
 http://ice1.fabricahost.com.br:8010/live.128
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1439401341.jpg" group-title="RÁDIOS 2",Transamerica Pop FM
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1439401341.jpg" group-title="RÁDIOS BR",Transamerica Pop FM
 http://transamerica.crossradio.com.br:9114/live.mp3
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS 2",Vagalume Vibe
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS BR",Vagalume Vibe
 https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS 2",Vagalume Funk
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS BR",Vagalume Funk
 https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS 2",Vagalume Sertanejo Hits
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS BR",Vagalume Sertanejo Hits
 https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS 2",Vagalume Pagode
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="RÁDIOS BR",Vagalume Pagode
 https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
 
@@ -1591,65 +1572,65 @@ http://192.99.150.31:9125/stream
 
 ################### Músicas ################### 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Kids
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Kids
 http://192.99.150.31:9431/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",MPB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",MPB
 http://192.99.150.31:8775/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Bossa Nova
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Bossa Nova
 http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Forró
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Forró
 http://192.99.150.31:9019/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Pagode
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Anos 2000
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Anos 2000
 http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Sertanejo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Sertanejo
 http://192.99.150.31:9485/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Funk
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Funk
 http://192.99.150.31:9089/;
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Rock Clássico
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Rock Clássico
 http://192.99.150.31:9125/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Lounge
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Lounge
 http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Pop Rock
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Pop Rock
 http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Anos 70
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Anos 70
 http://192.99.150.31:8241/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Anos 80
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Anos 80
 http://192.99.150.31:8697/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Anos 90
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Anos 90
 http://192.99.150.31:8056/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Românticas
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Românticas
 http://192.99.150.31:8962/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Rap Nacional
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Rap Nacional
 http://192.99.150.31:8377/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Eletrônica
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Eletrônica
 http://192.99.150.31:9095/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Festa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Gospel
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Gospel
 http://192.99.150.31:9101/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Hip Hop
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Hip Hop
 http://192.99.150.31:8721/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Jazz
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Jazz
 http://192.99.150.31:8042/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Axé
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Axé
 http://192.99.150.31:8305/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Brega
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Brega
 http://192.99.150.31:9007/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Música Clássica
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Música Clássica
 http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",New Rock
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",New Rock
 http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Reggae
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Reggae
 http://192.99.150.31:8715/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Sertanejo Universitário
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Sertanejo Universitário
 http://192.99.150.31:9191/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Pop Hits
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Metal
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Metal
 http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Música!",Trilhas Sonoras
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="MÚSICAS",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
 
 
