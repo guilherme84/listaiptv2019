@@ -105,6 +105,30 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?CompartilhandoIPTV
 
 ################### CLIPES ###################
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="CLIPES",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="CLIPES",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="CLIPES",DJ Hits
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z71lgvtl9/virgin_tv.png" group-title="CLIPES",Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="CLIPES",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CLIPES",ONE 0
+http://rtmp.one.by:1200
+
+
 #EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="CLIPES",TV CLIMA
 http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
 
